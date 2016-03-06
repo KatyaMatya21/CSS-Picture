@@ -1,4 +1,4 @@
-# CSS-Picture
+# CSS-Rainbow-Picture
 training with css animation
 
 ##Demo 
